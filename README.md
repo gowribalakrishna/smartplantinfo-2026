@@ -1,3 +1,4 @@
+
 # Smart Plantation Tracking & AI Chatbot System
 
 A full-stack MERN application for plantation management with AI chatbot support in Telugu and English.
@@ -137,3 +138,7 @@ project/
 
 ```bash
 git clone https://github.com/yourusername/plantation-project.git
+=======
+# smartplantinfo-2026
+Plant Information website using React and Node.js.  
+>>>>>>> 1c3e1e09bd4018596af6f2650a61dc137e2c0e90
