@@ -22,7 +22,7 @@ function Plants() {
     },
     {
       name: "Tulsi",
-      image: "/images/pic1.jpg",
+      image: "/images/pic1ns.jpg",
       uses: "Holy medicinal plant",
       watering: "Water once a day",
       details:
